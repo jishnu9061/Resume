@@ -40,15 +40,15 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<div class="profile-thumb" style="background: url(images/user-3.jpg);"></div>
+							<div class="profile-thumb" style="background: url(images/jishnu.jpg);"></div>
 							<h1><span>Jishnu T K</span></h1>
 							<h3><span>Jr Php Developer / Trader</span></h3>
 							<p>
 								<ul class="fh5co-social-icons">
-									<li><a href="#"><i class="icon-twitter2"></i></a></li>
+									<li><a href="https://twitter.com/ganesh_jis82896"><i class="icon-twitter2"></i></a></li>
 									<li><a href="#"><i class="icon-facebook2"></i></a></li>
-									<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-									<li><a href="#"><i class="icon-dribbble2"></i></a></li>
+									<li><a href="https://www.linkedin.com/in/jishnu-t-k-37a933222/"><i class="icon-linkedin2"></i></a></li>
+									<li><a href="https://www.instagram.com/j_i_s_h_n_u_t_k/"><i class="icon-instagram"></i></a></li>
 								</ul>
 							</p>
 						</div>
@@ -77,14 +77,14 @@
 				</div>
 				<div class="col-md-8">
 					<h2>Hello There!</h2>
-					<p>There live the blind texts far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in bookmarksgrove there live the blind texts far from the countries.</p>
-					<p>Far far away, behind the word mountains, Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci there live the blind texts from the countries Vokalia and Consonantia, there live the blind texts. Quos quia provident consequuntur culpa facere ratione maxime commodi voluptates id repellat velit eaque aspernatur expedita. Possimus itaque adipisci.</p>
+					<p>Hello! I'm Jishnu T K, a junior PHP developer with a passion for crafting dynamic and efficient web solutions. My journey in the world of coding began with a love for creating seamless and interactive online experiences. I specialize in PHP, leveraging its power to build robust websites and web applications. Proficient in HTML, CSS, and JavaScript, I bring a holistic approach to web development, ensuring both functionality and aesthetics.</p>
+					<p>Beyond the realm of code, I also wear the hat of a trader. Fascinated by the ever-evolving financial markets, I actively engage in [Specify the type of trading you are involved in—stocks, cryptocurrencies, forex, etc.]. My analytical mindset, coupled with a deep understanding of market trends, allows me to navigate the complexities of trading and make informed decisions.</p>
 					<p>
 						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-twitter2"></i></a></li>
+							<li><a href="https://twitter.com/ganesh_jis82896"><i class="icon-twitter2"></i></a></li>
 							<li><a href="#"><i class="icon-facebook3"></i></a></li>
-							<li><a href="#"><i class="icon-linkedin2"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble2"></i></a></li>
+							<li><a href="https://www.linkedin.com/in/jishnu-t-k-37a933222/"><i class="icon-linkedin2"></i></a></li>
+							<li><a href="https://www.instagram.com/j_i_s_h_n_u_t_k/"><i class="icon-instagram"></i></a></li>
 						</ul>
 					</p>
 				</div>
@@ -462,7 +462,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-blog">
+	{{-- <div id="fh5co-blog">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
@@ -518,7 +518,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 
 	<div id="fh5co-started" class="fh5co-bg-dark">
 		<div class="overlay"></div>
@@ -526,15 +526,17 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Hire Me!</h2>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-					<p><a href="#" class="btn btn-default btn-lg">Contact Us</a></p>
+					<p>Easy is itself, no one avoids difficulties. Either with difficulties or with a sense of responsibility. It is the responsibility of an architect to admit mistakes.</p>
+					<p><a href="#" class="btn btn-default btn-lg">Contact Us</a>
+                        <a href="#" class="btn btn-primary btn-lg">Download Resume</a>
+                    </p>
 				</div>
 			</div>
 		</div>
 	</div>
 
 	<div id="fh5co-consult">
-		<div class="video fh5co-video" style="background-image: url(images/cover_bg_1.jpg);">
+		<div class="video fh5co-video" style="background-image: url(images/developer.jpg);">
 			<div class="overlay"></div>
 		</div>
 		<div class="choose animate-box">
@@ -583,8 +585,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p>&copy; 2017 Free HTML5 Template. All Rights Reserved. <br>Designed by <a href="http://freehtml5.co" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.com" target="_blank">Unsplash</a></p>
-				</div>
+                    <p>&copy; 2024 Jishnu T K. All Rights Reserved. <br>Designed by <a href="http://yourwebsite.com" target="_blank">Jishnu T K</a>. Demo Images: <a href="http://unsplash.com" target="_blank">Unsplash</a></p>
+                </div>
+
 			</div>
 		</div>
 	</div>
