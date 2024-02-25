@@ -1,3 +1,3 @@
 <? php
-require __DIR__ ."/../resource/views/index.php";
+require __DIR__ ."/../resources/views/index.php";
 ?>
